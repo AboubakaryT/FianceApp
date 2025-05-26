@@ -1,0 +1,23 @@
+/*Navigation Bar*/
+*{
+ margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+}
+
+ul{ 
+  list-style: none;
+  display: flex;
+  text-align: center;
+  background-color:#1E90FF;
+}
+
+.topNavBar{
+    display: inline
+}
+.topNavBar img{
+
+}
